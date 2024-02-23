@@ -1,0 +1,20 @@
+A palestrante, Paula Dalamenu, dá continuidade ao curso básico de JavaScript.
+Na lição anterior, eles aprenderam sobre loops ou “looks”.
+O objetivo deste vídeo é terminar de construir o jogo de perguntas e respostas usando os novos conceitos que aprenderam.
+O locutor cria uma variável “atual” para armazenar o número da pergunta a ser exibida.
+Ela então cria condições para exibição de perguntas com base no valor da variável “atual”.
+O palestrante também demonstra como atribuir valores às variáveis ​​"pergunta", "respostaCorreta" e "respostaUsuario".
+Ela enfatiza a importância de praticar a escrita de código em vez de depender de copiar e colar.
+O palestrante então seleciona três perguntas para o questionário:
+Qual é a capital do Brasil? (Resposta correta: Brasília)
+Quanto é 1 + 2 x 9? (Resposta correta: 19)
+O ornitorrinco é um mamífero que põe ovos? (Resposta correta: Sim)
+Ela lembra aos telespectadores que a entrada do usuário deve ser convertida em um número para que a comparação funcione corretamente.
+O palestrante então introduz uma variável “errou” para rastrear se o usuário cometeu um erro.
+Ela abre um loop “while” que continua enquanto o usuário não cometer um erro e ainda houver perguntas para responder.
+O palestrante lembra aos telespectadores que atualizem a variável “atual” quando o usuário responder uma pergunta corretamente.
+Ela também mostra como adicionar uma mensagem de parabéns quando o usuário responde todas as perguntas corretamente.
+O palestrante incentiva os espectadores a testar o código e modificá-lo de acordo com suas próprias necessidades.
+Ela também fornece recursos para aprendizado adicional, incluindo um curso gratuito de lógica de programação e um curso de objetos e funções JavaScript.
+O palestrante também sugere aprender sobre HTML e CSS para criar uma interface de usuário para o quiz.
+O vídeo é voltado para iniciantes no aprendizado de JavaScript e aborda vários conceitos, como tipos de dados, operadores, instruções condicionais, loops e manipulação de strings.

@@ -1,0 +1,13 @@
+A palestrante, Paula, apresenta o tópico do uso de editores de código para escrever código JavaScript.
+Ela menciona que embora o bloco de notas básico possa ser usado, existem alternativas melhores, como editores de código especializados.
+VS Code é uma opção boa e gratuita, mas para este curso, o editor online CodeSandbox será usado para simplificar.
+CodeSandbox permite aos usuários criar novos projetos, escolher modelos e trabalhar com arquivos HTML, CSS e JavaScript.
+O palestrante demonstra o uso da tag h1 e do comando de alerta JavaScript.
+Ela também apresenta o comando prompt, que pode coletar informações do usuário.
+O palestrante explica a importância de usar comentários no código para explicar a funcionalidade.
+Ela aborda como comentar código em JavaScript.
+O foco principal da palestra são os diferentes tipos de interações com os usuários dentro do navegador.
+O palestrante apresenta o conceito de um projeto simples de jogo de perguntas e respostas para as próximas aulas.
+O jogo perguntará aos usuários seu nome, país e se desejam jogar.
+Os usuários responderão às perguntas do jogo e sua pontuação aumentará a cada resposta correta.
+A palestra termina com a criação de um novo projeto no CodeSandbox para o jogo de perguntas e respostas.

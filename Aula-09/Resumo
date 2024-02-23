@@ -1,0 +1,11 @@
+O vídeo é uma palestra sobre operadores lógicos em JavaScript.
+A instrutora, Paula, analisa os valores booleanos, que ajudam a responder sim ou não a perguntas.
+O primeiro operador lógico discutido é o operador “e” (&&), demonstrado através de um cenário de pedido de pizza. Tanto a mussarela quanto os brócolis devem estar disponíveis para a confecção da pizza.
+Em JavaScript, o operador 'e' é representado como '&&' e requer que ambas as condições sejam verdadeiras para que a expressão geral seja verdadeira.
+O segundo operador lógico discutido é o operador “ou” (||), demonstrado através de um cenário de festival de pizza. Pelo menos uma das duas opções de pizza (mussarela ou abobrinha) deve estar disponível para o consumo do indivíduo.
+Em JavaScript, o operador 'ou' é representado como '||' e requer que pelo menos uma condição seja verdadeira para que a expressão geral seja verdadeira.
+O terceiro operador lógico discutido é o operador “não” (!), demonstrado através de um cenário de pizza com ketchup. Se a pizza tiver ketchup, o indivíduo não comerá; caso contrário, eles o farão.
+Em JavaScript, o operador 'not' é representado como '!' e inverte o valor ao qual é aplicado.
+Os operadores lógicos podem ser usados ​​em expressões complexas, como verificar se a entrada de um usuário atende a determinados critérios em um cenário de jogo.
+O vídeo fornece um resumo de operadores relacionais e lógicos e suas tabelas verdade.
+O instrutor incentiva os alunos a praticar e experimentar os conceitos abordados.

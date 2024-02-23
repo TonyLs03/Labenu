@@ -1,0 +1,12 @@
+O vídeo é uma aula sobre o básico de JavaScript, com foco em strings e concatenação.
+O instrutor começa demonstrando como declarar uma variável e usar as funções alert() e prompt().
+Se uma variável for declarada sem valor, ela retornará "subdefinido". Quando prompt() é usado, se o usuário clicar em cancelar, a variável será “nula”.
+O instrutor então aborda como concatenar strings usando o operador "+".
+Uma nova variável, "frase", é criada combinando "olá", o valor da variável "nome", e "boas-vindas" usando concatenação.
+O instrutor observa que pode ser fácil esquecer espaços ao concatenar e sugere o uso de strings de modelo para simplificar o processo.
+Uma string de modelo usa crases ( ` ) em vez de aspas e permite que variáveis ​​sejam incorporadas na string usando ${}.
+O instrutor então cobre duas funções para manipulação de strings: toUpperCase() e toLowerCase(), que convertem todos os caracteres em maiúsculas e minúsculas, respectivamente.
+A função toLowerCase() pode ser útil para comparar a entrada do usuário com as respostas esperadas, pois ignora maiúsculas e minúsculas.
+A função replace() pode ser usada para substituir caracteres específicos dentro de uma string.
+A propriedade length pode ser usada para determinar o número de caracteres (incluindo espaços e pontuação) em uma string.
+Em resumo, a lição aborda a declaração de variáveis, o uso de alertas e prompts, a concatenação de strings, o uso de strings de modelo, a manipulação de strings e a determinação do comprimento de uma string.

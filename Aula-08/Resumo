@@ -1,0 +1,14 @@
+A palestrante, Paula, está ministrando um curso básico de JavaScript e, nesta lição, discutirá operadores relacionais.
+Operadores relacionais são usados ​​para comparar valores e entender a relação entre eles, como maior que, menor que, igual a, etc.
+Ao comparar dois números, o resultado só pode ser verdadeiro ou falso (por exemplo, 2 é maior que 5 resultaria em falso).
+Existem vários operadores relacionais:
+Maior que (>): 500 é maior que 2 (verdadeiro).
+Menor que (<): 4 não é menor que 4 (falso).
+Maior ou igual a (>=): 500 é maior ou igual a 2 (verdadeiro), 100 não é menor ou igual a 4 (falso).
+Menor ou igual a (<=): 6 é menor ou igual a 6 (verdadeiro).
+Igual a (==): usado para verificar se os valores são iguais (ex.: 3 == 4 resultaria em falso, mas 10 == 10 resultaria em verdadeiro).
+Diferente de (!=): usado para verificar se os valores não são iguais (ex.: 3 != 4 resultaria em verdadeiro).
+Ao verificar a igualdade, use dois ou três sinais de igual (por exemplo, a == b ou a === b). O primeiro verifica apenas a igualdade de valores e o segundo verifica a igualdade de valores e tipos de dados.
+Para verificar a desigualdade, use um ponto de exclamação e um sinal de igual (por exemplo, a != b) ou um ponto de exclamação e dois sinais de igual (por exemplo, a !== b) para desigualdade de valor e tipo de dados.
+No projeto exemplo, pergunta-se ao usuário "Qual é a capital do Brasil?" e a resposta é comparada com a resposta correta ("Brasília") por meio de operadores relacionais.
+O texto termina resumindo o tema e incentivando os espectadores a curtir, compartilhar e se inscrever no canal para mais conteúdo.

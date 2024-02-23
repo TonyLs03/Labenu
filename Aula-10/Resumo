@@ -1,0 +1,12 @@
+
+A palestrante, Paula Dalla Benoit, continua com o curso básico de JavaScript, com base na lição anterior sobre operadores lógicos e expressões.
+O foco desta lição é compreender instruções e expressões, incluindo a diferença entre elas.
+Uma instrução é um processo passo a passo para a execução do código, enquanto uma expressão é um cálculo que resulta em um único valor.
+Exemplos de expressões incluem expressões matemáticas, como 5 * 2 + 15, que resulta em 16, e expressões de comparação, como verificar se o comprimento de uma string é maior que três.
+As operações lógicas também podem fazer parte de expressões, permitindo tomadas de decisão mais complexas com base em múltiplas condições.
+As expressões podem ser usadas para tomar decisões em código, com instruções condicionais como verificações "if" baseadas no resultado de uma expressão.
+O palestrante apresenta o conceito de fluxo de controle, que trata da alteração da ordem de execução do código com base em condições e loops.
+O fluxo de controle inclui estruturas condicionais, como instruções “if”, e estruturas de loop, como loops “while”.
+As estruturas condicionais permitem que diferentes blocos de código sejam executados com base em condições específicas, enquanto as estruturas de loop repetem uma seção de código até que uma determinada condição seja atendida.
+O palestrante enfatiza a importância de entender o fluxo de controle para a construção de programas mais complexos, incluindo o projeto “Labeshow”.
+A lição incentiva os alunos a se envolverem com o conteúdo, curtindo, compartilhando e se inscrevendo no canal, bem como explorando os cursos de tecnologia da Alura voltados para a carreira.

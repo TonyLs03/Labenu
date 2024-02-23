@@ -1,0 +1,11 @@
+A palestrante, Paula Dallavenue, está finalizando um curso básico de JavaScript e introduzindo o tema loops ou "laços" na aula final.
+Os loops permitem a criação de estruturas repetitivas no código, semelhantes às atividades cotidianas, como comer lasanha até o prato ficar vazio ou correr em uma pista.
+Existem dois tipos de loops em JavaScript: “while” e “for”.
+O locutor fornece um exemplo de jogo de loop "while" em que o usuário tenta adivinhar uma fruta escolhida pelo locutor.
+Três variáveis ​​são usadas: uma para a fruta escolhida pelo locutor, uma para a fruta adivinhada pelo usuário e uma para rastrear se o usuário adivinhou corretamente.
+O loop continua até que o usuário adivinhe corretamente.
+O palestrante então apresenta um segundo exemplo usando uma variável numérica, simulando uma corrida onde um corredor continua até completar três voltas.
+O loop verifica o número de voltas completadas e envia um alerta ao usuário para continuar correndo até que o número necessário de voltas seja alcançado.
+O loop JavaScript "for" é introduzido, que inclui a declaração da variável do loop, condição e incremento em uma linha.
+O loop “for” é útil para repetir um bloco de código um número específico de vezes.
+O palestrante incentiva o aluno a praticar o uso de loops na próxima lição.

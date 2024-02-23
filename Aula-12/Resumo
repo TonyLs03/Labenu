@@ -1,0 +1,11 @@
+O vídeo é uma lição sobre como aplicar conceitos condicionais em JavaScript.
+A instrutora Paula recapitula a lição anterior sobre condicionais e como construir uma expressão que pergunte o nome do usuário, país e se ele deseja jogar.
+O novo tópico é como criar uma condicional que verifica se um usuário pode jogar o jogo, com base no tamanho do nome e no país.
+Paula explica que existem duas formas de verificar se um usuário pode jogar: utilizando a variável “podeJogar” com três sinais de igual (===) ou simplesmente escrevendo “if (podeJogar)”.
+Se o usuário puder jogar, a lógica do jogo será executada. Caso contrário, aparecerá uma mensagem dizendo "Não podemos jogar hoje."
+Paula demonstra como criar um jogo simples declarando variáveis ​​para a pergunta, resposta correta e resposta do usuário.
+Ela usa uma condicional para verificar se a resposta do usuário corresponde à resposta correta, exibindo uma mensagem de acordo.
+Paula também mostra como criar uma variável para o prêmio que aumenta R$ 100 a cada resposta correta.
+A aula termina com um jogo funcional, mas Paula ressalta que caso o usuário responda incorretamente, uma nova pergunta deverá ser feita.
+Na próxima lição, o instrutor abordará loops e estruturas de repetição para melhorar o jogo.
+Paula incentiva os espectadores a interagir com o conteúdo, curtir, compartilhar e se inscrever no canal. Ela cita ainda que o Labenu oferece cursos com foco em empregabilidade para interessados ​​em ingressar no mercado de tecnologia.

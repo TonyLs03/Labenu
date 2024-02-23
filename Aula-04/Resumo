@@ -1,0 +1,12 @@
+O vídeo é uma aula de um curso básico de JavaScript, ministrado pela instrutora “Paula”.
+A lição anterior focou em armazenar o nome do usuário para exibir uma saudação personalizada.
+Nesta lição, o instrutor discutirá os tipos de dados disponíveis em JavaScript.
+JavaScript possui tipos básicos de dados, chamados de “tipos de dados primitivos”, que incluem:
+Números: podem ser inteiros ou decimais, sendo o separador decimal um ponto final (ex.: “2,56”).
+Strings: sequências de caracteres usadas para representar texto, entre aspas (simples, duplas ou crases).
+Booleanos: tipo de dado lógico com dois valores possíveis, verdadeiro ou falso.
+Outros tipos de dados primitivos incluem:
+Nulo: um valor vazio intencional.
+Indefinido: um valor que ainda não foi definido.
+A lição também menciona dois tipos de dados primitivos menos comuns: bigint e símbolo.
+O instrutor incentiva os alunos a buscar mais informações sobre esses tipos de dados adicionais se

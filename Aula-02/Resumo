@@ -1,0 +1,20 @@
+O vídeo é uma aula de noções básicas de JavaScript de Paula Dalavenue.
+A lição anterior abordou como funcionam as páginas da web, já que JavaScript é uma linguagem usada para tornar os sites mais dinâmicos.
+JavaScript é a linguagem de programação mais utilizada no mercado, segundo pesquisa StackOverflow de 2021.
+O código JavaScript é escrito em um arquivo de texto, que pode ser criado usando editores de texto simples como Notepad ou TextEdit.
+O JavaScript foi inicialmente concebido para ser executado em navegadores da web, mas agora também pode ser executado em outros ambientes, como Node.js.
+HTML é usado para criar a estrutura de uma página da web. Nesta lição, Paula demonstra a criação de uma página HTML básica com título e parágrafo.
+O arquivo HTML precisa ser salvo com a extensão .html, para que o navegador possa reconhecê-lo como um arquivo HTML.
+Para incluir JavaScript na página HTML, a tag <script> é usada no arquivo HTML, apontando para o arquivo JavaScript.
+Paula cria um programa JavaScript simples que exibe uma caixa de alerta com a mensagem "Olá, mundo!" usando a alert()função.
+Para executar o programa JavaScript, ela salva o arquivo com extensão .js e o inclui no arquivo HTML usando a tag <script> .
+Quando a página HTML é carregada em um navegador, o programa JavaScript é executado, exibindo a caixa de alerta.
+Principais tópicos abordados no vídeo:
+
+Introdução aos fundamentos do JavaScript
+Visão geral de HTML e JavaScript
+Criando uma página HTML básica
+Escrevendo um programa JavaScript simples
+Conectando o programa JavaScript à página HTML
+Executando o programa JavaScript em um navegador.
+

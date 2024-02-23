@@ -1,0 +1,17 @@
+A palestrante, Paula Dalla Benvinda, dá continuidade ao curso básico de JavaScript, discutindo números e operações relacionadas.
+Para trabalhar com números em JavaScript, vários operadores familiares são usados:
+Para adição, use o símbolo ‘+’.
+Para subtração, use o símbolo '-'.
+Para multiplicação, use o símbolo '*'.
+Para divisão, use o símbolo '/'.
+Existe um operador especial para encontrar o resto de uma divisão: o operador módulo, representado pelo símbolo '%'.
+Os operadores têm uma ordem de precedência: a multiplicação e a divisão são resolvidas primeiro, seguidas pela adição e subtração.
+Parênteses podem ser usados ​​para alterar a ordem das operações, se necessário.
+Ao receber números de um prompt do usuário, eles são armazenados como strings. Para realizar cálculos é necessário convertê-los em números através da Number()função.
+Nesta lição, os seguintes operadores aritméticos foram discutidos:
+Adição: '+'
+Subtração: '-'
+Multiplicação: '*'
+Divisão: '/'
+Módulo: '%'
+Lembre-se de que a entrada do usuário em um prompt é tratada como uma string, portanto você deve convertê-la em um número para cálculos usando a Number()função.
